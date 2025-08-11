@@ -1,5 +1,17 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# mindfy_staj_python
+print("Merhaba Python")
+print(61)
+print("BİZE HER YER TRABZON")
+print(3.14)
+print(True)
+print(" Ad: BÜNYAMİN")
+print(" Yaş:22")
+print(" Meslek:Öğrenci")
+print("Python'un Kullanım Alanları:")
+print("- Web geliştirme (Django, Flask)")
+print("- Veri analizi ve bilimsel hesaplama (Pandas, NumPy)")
+print("- Yapay zeka ve makine öğrenmesi (TensorFlow, scikit-learn)")
+print("- Oyun geliştirme (Pygame)")
+print("- Sistem otomasyonu ve script yazımı")
+print("- Görüntü işleme (OpenCV)")
+print("- IoT ve robotik uygulamalar")
